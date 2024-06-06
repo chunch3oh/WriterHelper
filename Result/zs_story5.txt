@@ -1,0 +1,89 @@
+For metric coherence:
+Causal consistency: 10
+Temporal consistency: 10
+Thematic consistency: 10
+Character consistency: 10
+Spatial consistency: 10
+Average Score: 10
+
+Explanation: 
+The story maintains a high level of coherence in all aspects. The events follow a logical order, with clear relationships between them. The timeline is consistent, and there is a strong thematic focus on justice, heroism, and societal change. The main character, Li Yunfei, remains consistent in his actions and motivations throughout the story. Lastly, the spatial consistency is maintained, with a clear sense of setting and location across the story.
+
+For metric comprehensive:
+- Literary Style: 6.5
+- Theme Handling: 6.8
+- Cultural and Social Context Reflection: 7.2
+- Narrative Structure: 6.7
+- Narrator and Point of View: 6.5
+- Characterization: 6.6
+- Average Score: 6.72
+
+For metric empathy:
+- Relatability: 8
+- Emotional Engagement: 7
+- Perspective-Taking: 7
+- Character Development: 8
+- Average Score: 7.5
+
+For metric complexity:
+- Character Complexity: 4
+- Plotline Complexity: 4
+- Theme Complexity: 5
+- Narrative Structure Complexity: 3
+- Narrative Complexity Index (NCI): 4
+
+For metric engagement:
+- Emotional Connection: 7.5
+The story evokes emotions in the reader, as it portrays the struggles and determination of Li Yunfei, a heroic figure who stands up for justice and equality. His actions and choices create a sense of inspiration and admiration for his character.
+
+- Relatability: 7
+The audience can relate to Li Yunfei's motivations and experiences as he aims to help those who are oppressed and persecuted. His dedication towards fighting for justice and equality is reflected in both his actions and the establishment of a martial arts school for the poor.
+
+- Suspense: 6.5
+The narrative features a moderate level of suspense, particularly in the battle scenes where Li Yunfei faces powerful adversaries, such as the battle against the evil leader. However, the story could benefit from more unexpected twists or a deeper exploration of Li Yunfei's inner struggles.
+
+- Pacing: 6
+The story has a relatively balanced pacing - the narrative includes both action scenes and quieter moments, such as Li Yunfei's upbringing and the foundation of the martial arts school. However, it could be improved with a more detailed exploration of specific events, character relationships, and Li Yunfei's internal thoughts and feelings.
+
+- Average Score: (7.5 + 7 + 6.5 + 6) / 4 = 6.75
+
+For metric surprise:
+Key Events, Character Actions, and Plot Twists:
+1. Li Yunfei obtains a martial arts manual and masters swordsmanship.
+2. Li Yunfei fights an evil force in a small village.
+3. Li Yunfei defeats the powerful leader of the evil force.
+4. Li Yunfei becomes a well-known hero in the martial arts world.
+5. Li Yunfei sets up a martial arts school for the poor and teaches the concepts of justice and morality.
+
+Predictability Scores:
+1. Li Yunfei obtaining the martial arts manual: 2 (common trope in the martial arts genre)
+2. Li Yunfei fighting evil in a small village: 2 (common scenario of a hero protecting the weak)
+3. Defeating the powerful leader of the evil force: 1 (highly expected outcome in the genre)
+4. Becoming a well-known hero: 1 (typical and expected progression for a protagonist)
+5. Setting up a martial arts school to help the poor and educate: 3 (less common, but not entirely unexpected in the genre)
+
+Impact Scores:
+1. Li Yunfei obtaining the martial arts manual: 4 (big impact on character's development)
+2. Li Yunfei fighting evil in a small village: 3 (solidifies protagonist as a hero)
+3. Defeating the powerful leader of the evil force: 4 (establishes Li Yunfei's strength and moral conviction)
+4. Becoming a well-known hero: 3 (affirms the protagonist's role in the story)
+5. Setting up the martial arts school: 4 (contributes to Li Yunfei's lasting impact on society)
+
+Surprise Scores:
+1. Li Yunfei obtaining the martial arts manual: 2 x 4 = 8
+2. Li Yunfei fighting evil in a small village: 2 x 3 = 6
+3. Defeating the powerful leader of the evil force: 1 x 4 = 4
+4. Becoming a well-known hero: 1 x 3 = 3
+5. Setting up the martial arts school: 3 x 4 = 12
+
+Narrative Surprise Index (NSI):
+Add all surprise scores (8+6+4+3+12 = 33) and divide by the number of elements (5), which equals 6.6. Divide by 2.5 to scale it to 1-10, resulting in an overall Narrative Surprise Index (NSI) of 2.64.
+
+For metric relevance:
+- Contextual Relevance: 8
+- Thematic Relevance: 9
+- Temporal Relevance: 6
+- Audience Relevance: 8
+- Purpose Relevance: 9
+- Average Score: 8
+

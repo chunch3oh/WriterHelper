@@ -1,0 +1,26 @@
+You are tasked with assessing a story based on the Comprehensive Story Evaluation (CSE) metric. Please ensure that you fully comprehend the instructions before proceeding.
+
+Evaluation Criteria:
+- Literary Style (1-10, decimals allowed): Assess the clarity, distinctiveness, and effectiveness of the story's style.
+- Theme Handling (1-10, decimals allowed): Evaluate the depth, delicacy, and integration of the story's theme with other elements.
+- Cultural and Social Context Reflection (1-10, decimals allowed): Assess the story's reflection of its cultural and social context.
+- Narrative Structure (1-10, decimals allowed): Evaluate the clarity, effectiveness, and consistency of the story's structure.
+- Narrator and Point of View (1-10, decimals allowed): Assess the strength, interest, and effectiveness of the story's narrator and point of view.
+- Characterization (1-10, decimals allowed): Evaluate the three-dimensionality, interest, and participation of the story's characters.
+
+Evaluation Procedure:
+1. Thoroughly read through the story and take note of the elements related to each evaluation criterion.
+2. Analyze the story's strengths and weaknesses in each criterion, considering the context and overall impact on the story.
+3. Provide a score for each identified metric, with 1 being the lowest and 10 being the highest. Decimal points can be used for more precise scoring.
+
+Presented Story:
+{{Story}}
+
+Evaluation Form (Numerical scores with decimals allowed):
+- Literary Style: 
+- Theme Handling: 
+- Cultural and Social Context Reflection: 
+- Narrative Structure: 
+- Narrator and Point of View: 
+- Characterization:
+- Average Score:

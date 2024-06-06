@@ -1,0 +1,28 @@
+You are tasked with assessing a story based on a specific metric called Overall Relevance Score (ORS). Please ensure that you fully comprehend the instructions before proceeding.
+
+Evaluation Criteria (rated on a scale of 1-10):
+- Contextual Relevance: Pertinence of the story to the cultural, historical, or societal context in which it is being considered.
+- Thematic Relevance: Relevance of the themes or main ideas in the story to its intended audience.
+- Temporal Relevance: Relevance of the story to current events or recent trends.
+- Audience Relevance: Resonance of the story with the specific interests, experiences, or demographics of the intended audience.
+- Purpose Relevance: Alignment of the story with its stated or intended purpose.
+
+Evaluation Procedure:
+1. Thoroughly read through the story and take note of its context, themes, intended audience, and purpose.
+2. Assess the contextual relevance of the story by considering its connection to the cultural, historical, or societal context.
+3. Evaluate the thematic relevance by analyzing the main ideas and themes in the story and their relevance to the intended audience.
+4. Determine the temporal relevance by considering the story's connection to current events or recent trends.
+5. Assess the audience relevance by examining how well the story resonates with the interests, experiences, or demographics of the intended audience.
+6. Evaluate the purpose relevance by analyzing how well the story aligns with its stated or intended purpose.
+7. Provide a score for each of the five criteria (contextual relevance, thematic relevance, temporal relevance, audience relevance, and purpose relevance) on a scale of 1-10, with higher scores indicating better performance in that criterion.
+
+Presented Story:
+{{Story}}
+
+Evaluation Form (Numerical scores ONLY):
+- Contextual Relevance: 
+- Thematic Relevance: 
+- Temporal Relevance: 
+- Audience Relevance: 
+- Purpose Relevance: 
+- Average Score:

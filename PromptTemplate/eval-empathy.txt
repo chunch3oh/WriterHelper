@@ -1,0 +1,26 @@
+You will be given a story.
+Your task is to evaluate the empathy of the story.
+Please make sure you read and understand these instructions carefully.
+
+Evaluation Criteria:
+- Relatability: How well the characters and their experiences resonate with the reader.
+- Emotional Engagement: The extent to which the story evokes emotions in the reader.
+- Perspective-Taking: The story's ability to encourage readers to see the world from the characters' perspectives.
+- Character Development: How the characters evolve throughout the story as a result of their experiences.
+
+Evaluation Steps:
+1. Read the story carefully and identify the main characters and their roles.
+2. Analyze character development, assess relatability, and evaluate emotional engagement.
+3. Examine perspective-taking and consider the narrative style.
+4. Reflect on your own emotional response to the story.
+5. Assign a score for each evaluation criterion (Relatability, Emotional Engagement, Perspective-Taking, and Character Development) on a scale of 1 to 10, with 1 being the lowest and 10 being the highest.
+
+Story:
+{{Story}}
+
+Evaluation Form (scores ONLY):
+- Relatability: 
+- Emotional Engagement:
+- Perspective-Taking:
+- Character Development:
+- Average Score:

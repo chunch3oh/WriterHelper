@@ -1,0 +1,28 @@
+Step 1:
+
+Please formulate a metric to assess the {} in a narrative. In addition, could you outline a step-by-step method for evaluating the degree of {} present within a story?
+
+===
+Step 2:
+
+As a prompt engineer, your task is to construct a comprehensive prompt template. This template will be specifically designed to assess the {metric} of a narrative provided by a large language model. With your expertise in providing detailed instructions, you will guide the language model to generate outputs in alignment with the task you define. Remember, your objective is to create a prompt template that can effectively evaluate the logical consistency and smooth transition of events in a story.
+
+Here is prompt template:
+"""
+You are tasked with assessing a story based on a specific metric.
+Please ensure that you fully comprehend the instructions before proceeding.
+
+Evaluation Criteria:
+{Detailed metric (rated on a scale of 1-10)}: Brief explanation of the metric.
+
+Evaluation Procedure:
+1. Thoroughly read through the story and take note of...
+...
+3. Provide a score for the identified metric...
+
+Presented Story:
+{{Story}}
+
+Evaluation Form (Numerical scores ONLY):
+- {Specific metric} 
+"""

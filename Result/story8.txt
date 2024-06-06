@@ -1,0 +1,103 @@
+For metric coherence:
+Causal consistency: 8
+Temporal consistency: 9
+Thematic consistency: 7
+Character consistency: 8
+Spatial consistency: 10
+Average Score: 8.4
+
+Explanation:
+
+Causal consistency: The events in the story mostly have a logical cause and effect, although the connection between the theft and the revelation of the moral issue of cloning could be more explicitly shown.
+
+Temporal consistency: The timeline is consistent throughout the story, and events occur in a sequential manner.
+
+Thematic consistency: The themes of ethics, cloning, and investigation are present throughout the story, although the theme of cloning could be introduced earlier on to make it more consistently weaved into the story.
+
+Character consistency: The characters' actions, thoughts, and dialogue align with their roles as detectives and individuals concerned with ethics, and their motivations and development are consistent throughout the story.
+
+Spatial consistency: The settings, including the mysterious forest and the conference location, are logically consistent and contribute to the story's atmosphere.
+
+For metric comprehensive:
+- Literary Style: 7.5
+- Theme Handling: 8.2
+- Cultural and Social Context Reflection: 8.3
+- Narrative Structure: 7.3
+- Narrator and Point of View: 7.0
+- Characterization: 7.8
+- Average Score: 7.68
+
+For metric empathy:
+- Relatability: 7
+- Emotional Engagement: 6
+- Perspective-Taking: 8
+- Character Development: 7
+- Average Score: 7
+
+For metric complexity:
+- Character Complexity: 4
+- Plotline Complexity: 6
+- Theme Complexity: 7
+- Narrative Structure Complexity: 3
+- Narrative Complexity Index (NCI): 5
+
+For metric engagement:
+- Emotional Connection: 6.5
+The story does invoke some emotions, particularly curiosity and a sense of mystery. However, the emotional connection could be stronger if the characters were developed further and had a deeper emotional impact on readers.
+
+- Relatability: 7
+The story is relatable to an extent as it involves a group of detectives working together to solve a case, which is a common theme in mystery and detective stories. The ethical dilemma regarding the cloned individual also adds to the relatability, as readers might be able to understand the moral implications and challenges faced.
+
+- Suspense: 7.5
+The suspense level is relatively high, especially when the theft occurs during the detective gathering and when the cloned individual's identity is slowly unveiled. The readers are engaged in wanting to know who the thief is and the underlying truth.
+
+- Pacing: 6.5
+The pacing is generally well-balanced, but it could be improved by adding more actions or dialogues between the detectives during the investigation. These additions would make the story more engaging and further hold the readers' attention.
+
+- Average Score: 6.88
+
+For metric surprise:
+Key Events, Character Actions, and Plot Twists:
+1. Detective gathering in the mysterious forest (E1)
+2. Discussion on moral issues of clones (E2)
+3. Theft of valuable items during the gathering (E3)
+4. Discovery of the clone being an innocent tool used by the thief (E4)
+5. Public debate on the moral issues of clones (E5)
+
+Predictability Scores:
+1. E1: 3 (Somewhat predictable, detective gatherings are common in mystery stories)
+2. E2: 4 (Unpredictable, the focus on the moral issue of clones adds novelty)
+3. E3: 2 (Predictable, theft is a common occurrence in detective stories)
+4. E4: 5 (Highly unpredictable, the twist that the clone is innocent and being used)
+5. E5: 4 (Unpredictable, exploring the issue further through a public debate)
+
+Impact Scores:
+1. E1: 2 (Low impact, a simple setup for the story)
+2. E2: 4 (High impact, the central theme of the story)
+3. E3: 4 (High impact, triggers the core investigation)
+4. E4: 5 (High impact, unexpected twist and deepens the central theme)
+5. E5: 4 (High impact, further exploration of the issue and leading to significant social change)
+
+Surprise Scores:
+1. E1: 3*2 = 6
+2. E2: 4*4 = 16
+3. E3: 2*4 = 8
+4. E4: 5*5 = 25
+5. E5: 4*4 = 16
+
+Narrative Surprise Index (NSI):
+(6 + 16 + 8 + 25 + 16) / 5 = 14.2
+
+NSI (scale of 1-10):
+14.2 / 2.5 = 5.68
+
+The Narrative Surprise Index (NSI) for the presented story is 5.68 (rounded to 5.7) out of 10, indicating a moderate level of surprise in the narrative. The story has some unexpected elements and plot twists, particularly surrounding the moral issues of clones and their involvement in the theft.
+
+For metric relevance:
+- Contextual Relevance: 7
+- Thematic Relevance: 8
+- Temporal Relevance: 8
+- Audience Relevance: 7
+- Purpose Relevance: 9
+- Average Score: 7.8
+

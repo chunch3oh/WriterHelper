@@ -1,0 +1,21 @@
+You are tasked with assessing a story based on a specific metric: Narrative Engagement Index (NEI). Please ensure that you fully comprehend the instructions before proceeding.
+
+Evaluation Criteria:
+- Emotional Connection (rated on a scale of 0-10): The extent to which the narrative evokes emotions in the reader.
+- Relatability (rated on a scale of 0-10): The degree to which the audience can relate to the characters, their motivations, and their experiences.
+- Suspense (rated on a scale of 0-10): The level of suspense and tension present in the narrative.
+- Pacing (rated on a scale of 0-10): The balance between action, dialogue, and exposition, and whether it maintains the audience's interest throughout the narrative.
+
+Evaluation Procedure:
+1. Thoroughly read through the story and take note of the emotional connection, relatability, suspense, and pacing.
+2. For each criterion, provide a brief explanation of your assessment and assign a score between 0 and 10, with 0 being the lowest and 10being the highest. Decimal values are allowed.
+
+Presented Story:
+{{Story}}
+
+Evaluation Form (Numerical scores with decimals allowed):
+- Emotional Connection: 
+- Relatability: 
+- Suspense: 
+- Pacing: 
+- Average Score:

@@ -1,0 +1,101 @@
+For metric coherence:
+Causal consistency: 9
+Temporal consistency: 9
+Thematic consistency: 9
+Character consistency: 10
+Spatial consistency: 8
+Average Score: 9
+
+For metric comprehensive:
+- Literary Style: 7.8
+- Theme Handling: 7.3
+- Cultural and Social Context Reflection: 6.5
+- Narrative Structure: 7.7
+- Narrator and Point of View: 7.5
+- Characterization: 7.6
+- Average Score: 7.4
+
+For metric empathy:
+- Relatability: 7
+- Emotional Engagement: 8
+- Perspective-Taking: 7
+- Character Development: 8
+- Average Score: 7.5
+
+For metric complexity:
+- Character Complexity: 3
+- Plotline Complexity: 6
+- Theme Complexity: 4
+- Narrative Structure Complexity: 3
+- Narrative Complexity Index (NCI): 4
+
+For metric engagement:
+Emotional Connection: 7.5
+The story does a good job of establishing a connection with the audience through the protagonist's curiosity, adaptation, and desire to explore the unknown. Additionally, the challenges and triumphs experienced by the main character and his companions evoke emotions like fear, excitement, and triumph.
+
+Relatability: 6.5
+While the story is set in a fantastical world, the themes of curiosity, friendship, and adventure are relatable to the audience. The protagonist's motivations and values are well-developed and encourage the reader to feel connected to the character. However, the sci-fi/fantasy setting may not be universally relatable to all readers.
+
+Suspense: 7
+The suspense is well-maintained throughout the story, particularly in the process of navigating the time-space tunnel, encountering dangerous situations, and the battle against the invading alien creatures. These challenges add tension and intrigue, keeping the reader engaged.
+
+Pacing: 7
+The pacing of the story is balanced, featuring a mix of exposition, action, and dialogue. The adventures and challenges faced by the protagonist and his companions are well-paced and evenly distributed, maintaining the reader's interest throughout the narrative.
+
+Average Score: (7.5 + 6.5 + 7 + 7) / 4 = 7
+
+For metric surprise:
+Key Events, Character Actions, and Plot Twists:
+1. Edric has a background in a world of technology and magic.
+2. Edric and his team discover a mysterious time-space tunnel.
+3. They face life or death challenges as they traverse the tunnel.
+4. They arrive in a technologically advanced universe instead of their familiar medieval world.
+5. Alien creatures invade, steal resources, and destroy the new universe.
+6. Edric's team combines their technology and magic knowledge to find a solution.
+7. They successfully repel the alien invasion and protect the universe.
+8. Edric becomes a renowned adventurer in this new universe.
+
+Predictability Scores:
+1. Edric's background: 3 (moderate)
+2. Discovery of the time-space tunnel: 4 (moderately unpredictable)
+3. Life or death challenges: 2 (predictable)
+4. Arrival in a new universe: 4 (moderately unpredictable)
+5. Alien invasion: 3 (moderate)
+6. Using technology and magic: 3 (moderate)
+7. Successful defense against alien invasion: 1 (highly predictable)
+8. Edric's renown: 2 (predictable)
+
+Impact Scores:
+1. Edric's background: 3 (moderate)
+2. Discovery of the time-space tunnel: 4 (high)
+3. Life or death challenges: 3 (moderate)
+4. Arrival in a new universe: 4 (high)
+5. Alien invasion: 4 (high)
+6. Using technology and magic: 3 (moderate)
+7. Successful defense against alien invasion: 5 (very high)
+8. Edric's renown: 3 (moderate)
+
+Surprise Scores:
+1. Edric's background: 3 x 3 = 9
+2. Discovery of the time-space tunnel: 4 x 4 = 16
+3. Life or death challenges: 2 x 3 = 6
+4. Arrival in a new universe: 4 x 4 = 16
+5. Alien invasion: 3 x 4 = 12
+6. Using technology and magic: 3 x 3 = 9
+7. Successful defense against alien invasion: 1 x 5 = 5
+8. Edric's renown: 2 x 3 = 6
+
+Narrative Surprise Index (NSI):
+Total surprise score = 9 + 16 + 6 + 16 + 12 + 9 + 5 + 6 = 79
+NSI = (79/8)/2.5 = 3.95
+
+The Narrative Surprise Index (NSI) for this story is 3.95 out of 10.
+
+For metric relevance:
+- Contextual Relevance: 7
+- Thematic Relevance: 8
+- Temporal Relevance: 6
+- Audience Relevance: 7
+- Purpose Relevance: 8
+- Average Score: 7.2
+

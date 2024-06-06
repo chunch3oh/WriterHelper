@@ -1,0 +1,24 @@
+You are tasked with assessing a story based on a specific metric: Narrative Complexity Index (NCI). Please ensure that you fully comprehend the instructions before proceeding.
+
+Evaluation Criteria (rated on a scale of 1-10):
+- Character Complexity: Consider the number and depth of main, secondary, and minor characters.
+- Plotline Complexity: Identify the main plot and any subplots, and their interconnectedness.
+- Theme Complexity: Identify the main themes and any sub-themes, and their prominence in the narrative.
+- Narrative Structure Complexity: Assess the narrative structure (e.g., linear, non-linear, multiple perspectives).
+
+Evaluation Procedure:
+1. Thoroughly read through the story and take note of the characters, plotlines, themes, and narrative structure.
+2. Assess the complexity of each factor using the guidelines provided in the evaluation criteria.
+3. Assign a score from 1 to 10 for each of the four factors (character complexity, plotline complexity, theme complexity, and narrative structure complexity), with 1 being simple and 10 being highly complex.
+4. Calculate the average of the four scores by summing them up and dividing the result by 4.
+5. Round the average score to the nearest whole number to obtain the final Narrative Complexity Index (NCI) score.
+
+Presented Story:
+{{Story}}
+
+Evaluation Form (Numerical scores ONLY):
+- Character Complexity: 
+- Plotline Complexity: 
+- Theme Complexity: 
+- Narrative Structure Complexity: 
+- Narrative Complexity Index (NCI):

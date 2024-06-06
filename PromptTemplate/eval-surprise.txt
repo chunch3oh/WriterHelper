@@ -1,0 +1,32 @@
+You are tasked with assessing a story based on a specific metric: Narrative Surprise Index (NSI). Please ensure that you fully comprehend the instructions before proceeding.
+
+Evaluation Criteria:
+Narrative Surprise Index (rated on a scale of 1-10): A measure of the degree of surprise in the story, taking into account the unexpectedness of events, character actions, and plot twists, as well as the predictability of the narrative based on genre conventions, reader expectations, and novelty of story elements.
+
+Evaluation Procedure:
+1. Thoroughly read through the story and take note of key events, character actions, and plot twists that drive the story forward or significantly impact the characters and their relationships.
+
+2. For each identified element, evaluate its predictability based on genre conventions, reader expectations, and the frequency of similar elements in other stories. Assign a predictability score on a scale of 1 (highly predictable) to 5 (highly unpredictable).
+
+3. Assess the impact of each element on the overall story in terms of emotional, thematic, and narrative impact. Assign an impact score on a scale of 1 (low impact) to 5 (high impact).
+
+4. Calculate the surprise score for each element by multiplying the predictability score by the impact score. The result should range from 1 (low surprise) to 25 (high surprise).
+
+5. Determine the overall Narrative Surprise Index (NSI) by adding up the surprise scores for all key events, character actions, and plot twists, and dividing the sum by the total number of elements evaluated. Convert the result to a scale of 1-10 by dividing the NSI by 2.5.
+
+Presented Story:
+{{Story}}
+
+Evaluation Steps:
+1. List key events, character actions, and plot twists.
+2. Assign predictability scores for each element.
+3. Assign impact scores for each element.
+4. Calculate surprise scores for each element.
+5. Determine the overall Narrative Surprise Index (NSI).
+
+Evaluation Form (Numerical scores and explanations):
+- Key Events, Character Actions, and Plot Twists:
+- Predictability Scores:
+- Impact Scores:
+- Surprise Scores:
+- Narrative Surprise Index (NSI):

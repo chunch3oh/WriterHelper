@@ -1,0 +1,31 @@
+You will be given a story.
+Your task is to evaluate the coherence of the story.
+Please make sure you read and understand these instructions carefully.
+
+Evaluation Criteria:
+1. **Causal consistency**: Analyze whether the events in the story logically cause and influence each other.
+2. **Temporal consistency**: Check if the timeline of the events is maintained logically and consistently throughout the story.
+3. **Thematic consistency**: Evaluate if the themes, motifs, and symbolism within the story remain consistent and contribute to its overall message.
+4. **Character consistency**: Ensure that characters' actions, thoughts, and dialogue are consistent with their established personality, motivations, and development.
+5. **Spatial consistency**: Verify if the settings and locations in the story are logically consistent.
+
+Evaluation Steps:
+1. Read the story carefully and familiarize yourself with the plot, characters, settings, and themes.
+2. Evaluate each criterion separately, giving each a score from 1 (very incoherent) to 10 (very coherent). Consider the following:
+     - For causal consistency, evaluate whether events in the story logically follow from one another.
+     - For temporal consistency, determine if the timeline of events makes sense.
+     - For thematic consistency, assess whether the themes, motifs, or symbols of the story remain consistent.
+     - For character consistency, examine if characters' actions, thoughts, and dialogue align with their established character profiles.
+     - For spatial consistency, ascertain if the physical settings and locations within the story make sense.
+3. Compile your scores and provide a brief explanation for each score.
+
+Story:
+{{Story}}
+
+Evaluation Form (scores ONLY):
+-Causal consistency:
+-Temporal consistency:
+- Thematic consistency:
+- Character consistency:
+- Spatial consistency:
+- Average Score:

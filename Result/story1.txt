@@ -1,0 +1,92 @@
+For metric coherence:
+Causal consistency: 5
+Temporal consistency: 8
+Thematic consistency: 4
+Character consistency: 6
+Spatial consistency: 7
+Average Score: 6
+
+For metric comprehensive:
+- Literary Style: 7.5
+- Theme Handling: 7.8
+- Cultural and Social Context Reflection: 7.2
+- Narrative Structure: 8.0
+- Narrator and Point of View: 7.4
+- Characterization: 7.9
+- Average Score: 7.63
+
+For metric empathy:
+- Relatability: 7
+- Emotional Engagement: 7
+- Perspective-Taking: 8
+- Character Development: 7
+- Average Score: 7.25
+
+For metric complexity:
+- Character Complexity: 4
+- Plotline Complexity: 5
+- Theme Complexity: 4
+- Narrative Structure Complexity: 3
+- Narrative Complexity Index (NCI): 4
+
+For metric engagement:
+- Emotional Connection: 7.5
+The story effectively evokes emotions with the protagonist, 林黛玉, facing challenges and triumphing over evil. There's a sense of attraction between the characters, which adds depth to their interactions.
+
+- Relatability: 7.3
+The audience may relate to the protagonist's struggle against darkness and temptation, along with her determination. However, the setting and concept might be a little too fantastical for some readers, making it difficult to directly connect to.
+
+- Suspense: 8.5
+There's a strong sense of suspense as the story progresses, especially with the mysterious and evil presence of 伏地魔. The ultimate battle between the two is engaging, as are the various stages of their interactions and developments.
+
+- Pacing: 7.8
+The pacing of the story is well balanced, with action, dialogue, and exposition fitting together appropriately. The narrative flow maintains the audience's interest and doesn't feel too rushed or slow.
+
+- Average Score: 7.78
+
+For metric surprise:
+Key Events, Character Actions, and Plot Twists:
+1. 林黛玉's encounter with 伏地魔
+2. 伏地魔's attraction to 林黛玉 and her rejection of his evil nature
+3. 林黛玉 becomes a guardian of purity and justice
+4. The final showdown between 林黛玉 and 伏地魔
+5. 林黛玉 seals 伏地魔's dark powers and brings peace to the world
+6. 林黛玉 becomes a hero and her legacy lives on
+
+Predictability Scores:
+1. Encounter with 伏地魔: 2 (somewhat predictable)
+2. 伏地魔's attraction and rejection: 4 (somewhat unpredictable)
+3. 林黛玉 becomes a guardian: 3 (neutral predictability)
+4. Final showdown: 2 (somewhat predictable)
+5. Sealing dark powers and bringing peace: 2 (somewhat predictable)
+6. 林黛玉's hero status and legacy: 2 (somewhat predictable)
+
+Impact Scores:
+1. Encounter with 伏地魔: 4 (high impact)
+2. 伏地魔's attraction and rejection: 5 (high impact)
+3. 林黛玉 becomes a guardian: 4 (high impact)
+4. Final showdown: 5 (high impact)
+5. Sealing dark powers and bringing peace: 5 (high impact)
+6. 林黛玉's hero status and legacy: 4 (high impact)
+
+Surprise Scores:
+1. Encounter with 伏地魔: 8 (2 * 4)
+2. 伏地魔's attraction and rejection: 20 (4 * 5)
+3. 林黛玉 becomes a guardian: 12 (3 * 4)
+4. Final showdown: 10 (2 * 5)
+5. Sealing dark powers and bringing peace: 10 (2 * 5)
+6. 林黛玉's hero status and legacy: 8 (2 * 4)
+
+Narrative Surprise Index (NSI):
+(8 + 20 + 12 + 10 + 10 + 8) / 6 = 11.33
+NSI (scale of 1-10): 4.53 (11.33 / 2.5)
+
+The overall Narrative Surprise Index (NSI) for this story is 4.53, indicating a moderate degree of surprise in terms of unexpected events, character actions, and plot twists when considering genre conventions, reader expectations, and the novelty of story elements.
+
+For metric relevance:
+- Contextual Relevance: 4
+- Thematic Relevance: 6
+- Temporal Relevance: 3
+- Audience Relevance: 5
+- Purpose Relevance: 6
+- Average Score: 4.8

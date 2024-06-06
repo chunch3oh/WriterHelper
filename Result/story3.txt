@@ -1,0 +1,99 @@
+For metric coherence:
+Causal consistency: 9
+Temporal consistency: 9
+Thematic consistency: 8
+Character consistency: 8
+Spatial consistency: 9
+Average Score: 8.6
+
+Explanation:
+Causal consistency is well-maintained throughout the story with logic and order in the sequence of events. Temporally, the story is consistent and maintains a logical timeline. The thematic consistency is strong, focusing on the magical gemstone and its impact on the kingdom, but some elements could be explored further. Character consistency is mostly maintained, with consistent actions and motivations significant to the kingdom's safety, but some individual motivations may not be fully fleshed out. Spatial consistency is maintained throughout, with sensible locations for the various events. Overall, the story's coherence is strong with an average score of 8.6.
+
+For metric comprehensive:
+- Literary Style: 7.5
+- Theme Handling: 7.2
+- Cultural and Social Context Reflection: 6.9
+- Narrative Structure: 7.1
+- Narrator and Point of View: 7.4
+- Characterization: 7.0
+- Average Score: 7.18
+
+For metric empathy:
+- Relatability: 7
+- Emotional Engagement: 8
+- Perspective-Taking: 7
+- Character Development: 7
+- Average Score: 7.25
+
+For metric complexity:
+- Character Complexity: 5
+- Plotline Complexity: 6
+- Theme Complexity: 6
+- Narrative Structure Complexity: 4
+- Narrative Complexity Index (NCI): 5
+
+For metric engagement:
+- Emotional Connection: 7.5
+The story effectively evokes emotions related to responsibility, love, and sacrifice. The king's personal experience and his feelings for his late sister add depth to the emotional connection.
+
+- Relatability: 7
+The motivations and experiences of the characters are relatable, as we all can understand the urge to protect loved ones and the need for stability within a community. The king's willingness to make sacrifices for the greater good also adds to the relatability of the story.
+
+- Suspense: 6.5
+Suspense is present, particularly with regards to the search for the magical gemstone and conflict surrounding its possession. While the story remains captivating, the ultimate resolution of the story lessens the suspense leading to a slightly lower rating.
+
+- Pacing: 8
+The pacing is well-executed, with a good balance of action, dialogue, and exposition. The audience's interest is maintained throughout the narrative, and the events transition smoothly.
+
+- Average Score: (7.5 + 7 + 6.5 + 8) / 4 = 7.25
+
+For metric surprise:
+Key Events, Character Actions, and Plot Twists:
+1. The legend of the magical gemstone.
+2. The gemstone brings disasters and is sought by many.
+3. The king hides the gemstone and establishes a guard unit.
+4. The decision to send the gemstone to a foreign king.
+5. The kingdom stabilizes and the gemstone rumors fade away.
+6. The backstory of the king's sister, Laiya.
+7. The king's secret knowledge of the gemstone's power in connection to a specific altar.
+
+Predictability Scores:
+1. The legend of the magical gemstone: 2 (Common story element)
+2. The gemstone brings disasters and is sought by many: 2 (Common in adventure stories)
+3. The king hides the gemstone and establishes a guard unit: 3 (Somewhat unpredictable)
+4. The decision to send the gemstone to a foreign king: 4 (Unexpected)
+5. The kingdom stabilizes and the gemstone rumors fade away: 3 (Somewhat expected)
+6. The backstory of the king's sister, Laiya: 4 (Not anticipated)
+7. The king's secret knowledge of the gemstone's power in connection to a specific altar: 5 (Highly unpredictable)
+
+Impact Scores:
+1. The legend of the magical gemstone: 3 (Story setup - moderate impact)
+2. The gemstone brings disasters and is sought by many: 4 (Contributes to the plot - high impact)
+3. The king hides the gemstone and establishes a guard unit: 3 (Important for the gemstone's safety - moderate impact)
+4. The decision to send the gemstone to a foreign king: 4 (Game-changing decision - high impact)
+5. The kingdom stabilizes and the gemstone rumors fade away: 3 (Resolution - moderate impact)
+6. The backstory of the king's sister, Laiya: 4 (Informs the king's motivation - high impact)
+7. The king's secret knowledge of the gemstone's power in connection to a specific altar: 5 (Major plot reveal - highest impact)
+
+Surprise Scores:
+1. The legend of the magical gemstone: 2 x 3 = 6
+2. The gemstone brings disasters and is sought by many: 2 x 4 = 8
+3. The king hides the gemstone and establishes a guard unit: 3 x 3 = 9
+4. The decision to send the gemstone to a foreign king: 4 x 4 = 16
+5. The kingdom stabilizes and the gemstone rumors fade away: 3 x 3 = 9
+6. The backstory of the king's sister, Laiya: 4 x 4 = 16
+7. The king's secret knowledge of the gemstone's power in connection to a specific altar: 5 x 5 = 25
+
+Narrative Surprise Index (NSI):
+(6 + 8 + 9 + 16 + 9 + 16 + 25) / 7 = 12.71 / 2.5 = 5.08
+
+NSI: 5.08 (On a scale of 1-10, this story has a moderate degree of surprise.)
+
+For metric relevance:
+- Contextual Relevance: 8
+- Thematic Relevance: 7
+- Temporal Relevance: 4
+- Audience Relevance: 7
+- Purpose Relevance: 7
+- Average Score: 6.6
+
