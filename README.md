@@ -1,1 +1,1 @@
-# WriterHelper
+# LLM-CreativeWritingAssistant
