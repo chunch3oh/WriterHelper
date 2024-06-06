@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Keyword Confirmation</title>
+        <style>
+            .center {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-direction: column;
+                height: 100vh;
+                text-align: center;
+            }
+            .custom-button {
+                margin: 10px;
+                padding: 10px 20px;
+                font-size: 16px;
+                color: #000000;
+                background-color: #FFD700; 
+                border: none;
+                border-radius: 15px;
+                box-shadow: 0 9px #B8860B; 
+                text-decoration: none;
+                transition: all 0.3s ease 0s;
+                cursor: pointer;
+            }
+            .custom-button:hover {
+                background-color: #FFA500; 
+                box-shadow: 0 5px #DAA520; 
+                transform: translateY(4px);
+            }
+        </style>
+    </head>
+<body>
+    <div class="center">
+        <h1>大綱</h1>
+
+        <p>{{ outline }}</p>
+
+        <form method="post">
+            {% csrf_token %}
+            <button type="submit" name="confirm">確認</button>
+            <button type="submit" name="try_another">試試其他大綱</button>
+            
+        </form>
+    </div>
+</body>
+</html>
+

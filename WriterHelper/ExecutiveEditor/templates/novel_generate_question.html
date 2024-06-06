@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Generate Questions</title>
+    <style>
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            text-align: center;
+        }
+        .custom-button {
+            margin: 10px;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #000000;
+            background-color: #FFD700; 
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 9px #B8860B; 
+            text-decoration: none;
+            transition: all 0.3s ease 0s;
+            cursor: pointer;
+        }
+        .custom-button:hover {
+            background-color: #FFA500; 
+            box-shadow: 0 5px #DAA520; 
+            transform: translateY(4px);
+        }
+    </style>
+</head>
+<body>
+    <h1>Questions</h1>
+    {% for question in Questions %}
+    <p>{{ question }}</p>
+    {% endfor %}
+    <h2>Submit Your Answer</h2>
+    <form method="POST">
+        {% csrf_token %}
+        <label for="answer">Your Answer:</label><br>
+        <input type="text" id="answer" name="answer"><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
